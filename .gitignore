@@ -7,6 +7,8 @@ sesac/class/data
 sesac/class/sdata
 sesac/my_code_from_class/data
 sesac/my_code_from_class/sdata
+sesac/vehicle-classification
 sesac/Vehicles
 sesac/Vehicles_tvt
 sesac/vehicle_modelresnet50_best.pth
+sesac/vehicle_model
