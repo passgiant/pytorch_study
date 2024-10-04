@@ -13,3 +13,7 @@ sesac/Vehicles_tvt
 sesac/vehicle_modelresnet50_best.pth
 sesac/vehicle_model
 sesac/vehicle_model_frozen
+sesac/vehicle_model_resnet50
+sesac/vehicle_model_resnet50_freeze
+sesac/vehicle_model_efficientnet_b0
+sesac/vehicle_model_efficientnet_b0_freeze
